@@ -1,0 +1,4 @@
+{
+  "proxy": "http://USER:PASS@proxy.example.com:8080",
+  "use_stealth": true
+}
